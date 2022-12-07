@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cctype>
-#include "Cipher.h"
+#include "cipher.h"
 #include <locale>
 using namespace std;
 void check(const wstring& Text, const int & key)
