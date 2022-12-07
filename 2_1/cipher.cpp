@@ -1,4 +1,4 @@
-#include "Cipher.h"
+#include "cipher.h"
 using namespace std;
 Cipher::Cipher(const std::wstring& skey)
 {
