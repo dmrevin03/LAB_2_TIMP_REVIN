@@ -1,4 +1,4 @@
-#include "Cipher.h"
+#include "cipher.h"
 Cipher::Cipher(int key)
 {
     k=key;
