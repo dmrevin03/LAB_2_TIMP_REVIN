@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cctype>
-#include "Cipher.h"
+#include "cipher.h"
 using namespace std;
 void check(const wstring& Text, const wstring& key, const bool destructCipherText=false)
 {
