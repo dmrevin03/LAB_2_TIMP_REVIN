@@ -32,3 +32,4 @@ int main()
     check(L"dmitriy",L"student123");
     check(L"d m i t r i y",L"STUDENT");
     check(L"123",L"STUDENT");
+}
